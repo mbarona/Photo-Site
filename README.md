@@ -1,2 +1,2 @@
 # Photo-Site
-HTML Photo Site
+simple photography portfolio webpage
